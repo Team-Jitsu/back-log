@@ -3,7 +3,6 @@ name: "📌 Backlog Issue"
 about: "처리 대기 중인 작업 또는 개선사항을 기록합니다"
 title: "[Backlog] 이슈 제목 작성"
 labels: ["back-log"]
-assignees: ""
 ---
 
 
